@@ -1,0 +1,10 @@
+Terms:
+
+This bot will store your server ID and your server members ID's into a database upon first use. There is zero risk in ID's being shown, but I still want to make sure you know this is a feature for a lot of the bots features.
+The bot is not online 24/7. If the bot goes offline, I am sorry of it comes at a bad time.
+
+I am NOT able to overide permissions with this bot. I programmed the bot to even block me from using staff commands if I am in a server that I am not staff in. (Discord has a strict rule about this as well)
+
+This bot undergoes constant updates and feature changes. If you feel this bot doesn't have many features, be patient, more will come in the future.
+
+Feel free to give suggestions and tips on improving this discord bot!
